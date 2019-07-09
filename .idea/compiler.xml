@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="step1-ioc" target="1.6" />
-      <module name="step2-ioc-v2" target="1.6" />
-    </bytecodeTargetLevel>
-  </component>
-</project>
