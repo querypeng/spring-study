@@ -11,6 +11,7 @@
     <modules>
         <module>step1-ioc</module>
         <module>step2-ioc-v2</module>
+        <module>step3-property</module>
     </modules>
 
     <dependencies>
