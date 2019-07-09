@@ -4,7 +4,7 @@ import com.spring.study.BeanFactory;
 import com.spring.study.ObjectBean;
 import org.junit.Test;
 
-public class BeanFactoyTest {
+public class BeanFactoryTest {
 
     @Test
     public void test1(){

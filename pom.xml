@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>step1-ioc</module>
+        <module>step2-ioc-v2</module>
     </modules>
 
     <dependencies>
